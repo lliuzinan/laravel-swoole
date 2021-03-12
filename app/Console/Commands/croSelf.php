@@ -10,7 +10,7 @@ class croSelf extends Command
     /**
      * The name and signature of the console command.
      *
-     * @var string-test
+     * @var string
      */
     protected $signature = 'mysql-crontab';
 
